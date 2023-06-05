@@ -15,7 +15,7 @@
 
 ## Project Introduction
 
-PBL (Project Based Learning) Individual is the final task of Data Analytics for Business bootcamp at Bitlabs Academy which is done individually. In this project, we help companies who want to reassess their budget allocation for payroll schemes. In this case, as a data analyst, I make a scoring of employees with a scale of 1-100 and make a decision on how many employees should be laid off based on the scoring so that this analysis is expected to be effective in spending the costs used to hire employees.
+PBL (Project Based Learning) Individual is the final task of Data Analytics for Business bootcamp at Bitlabs Academy which is done individually. In this project, I want to help companies who want to reassess their budget allocation for payroll schemes. In this case, as a data analyst, I make a scoring of employees with a scale of 1-100 and make a decision on how many employees should be laid off based on the scoring so that this analysis is expected to be effective in spending the costs used to hire employees.
 
 <br>
 
