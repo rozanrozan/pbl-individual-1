@@ -36,8 +36,8 @@ PBL (Project Based Learning) Individual is the final task of Data Analytics for 
 ## Analysis Result
 <p> Here are some analysis results obtained from SQL processing: </p>
 <ol>
-  <li>The Total number of employees in company Y is 137 employees.</li>
-  <li>The Total number of branches owned by company Y is 15 branches.</li>
+  <li>The Total number of employees in this company is 137 employees.</li>
+  <li>The Total number of branches owned by this company is 15 branches.</li>
   <li>The average length of working hours per month is 204.21 hours.</li>
   <li>Most employees receive a salary that is too high compared to the salary calculation should be.</li>
   <li>The first branch has the highest rate of working hours and also the largest total salary expenditure.</li>
